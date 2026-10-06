@@ -1,0 +1,19 @@
+# Compiled files
+bin/
+*.class
+sources.txt
+
+# Data files (optional - remove this line if you want to share sample data)
+data/*.dat
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
